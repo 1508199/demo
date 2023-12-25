@@ -95,6 +95,7 @@
 				<version>3.2.3</version>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-demo</finalName>
 	</build>
 
 </project>
